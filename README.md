@@ -26,3 +26,5 @@ curl -fsSL https://not-a-cowfr.github.io/nixos-pride/install.sh | bash
 
 Original icon is from [NixOS], orginally licensed under CC BY 4.0
 All images under [flags](/flags) directory are color-modified versions of the [templates](/templates) which are the unchaged original icons with some extra svg points
+
+[NixOS]: https://nixos.org/
