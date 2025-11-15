@@ -12,4 +12,4 @@ while true; do
     fi
 done
 
-curl -o "NixOS-$flag_name.$filetype" "https://raw.githubusercontent.com/not-a-cowfr/nixos-pride/refs/heads/main/flags/$flag_name.$filetype"
+curl -o "NixOS-$flag_name.$filetype" "https://not-a-cowfr.github.io/nixos-pride/flags/$flag_name.$filetype"

@@ -5,7 +5,7 @@
 To install a single image easily, run this:
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/not-a-cowfr/nixos-pride/refs/heads/main/install.sh | bash
+curl -fsSL https://not-a-cowfr.github.io/nixos-pride/install.sh | bash
 ```
 
 ### Uses
